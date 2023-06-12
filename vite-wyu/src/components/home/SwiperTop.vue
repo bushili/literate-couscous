@@ -17,6 +17,8 @@ import {getbanner} from "@/request/api/home.js"
 export default {
     setup() {
       const state = reactive({images:[
+
+        
         'https://img1.baidu.com/it/u=413643897,2296924942&fm=253&fmt=auto&app=138&f=JPEG?w=800&h=500',
         'https://img0.baidu.com/it/u=1684532727,1424929765&fm=253&fmt=auto&app=120&f=JPEG?w=1200&h=675',
       ]});
